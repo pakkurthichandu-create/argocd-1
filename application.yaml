@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoUrl: 
+    repoUrl: https://github.com/pakkurthichandu-create/argocd-1.git
     revisionTarget: HEAD
     path: dev
   
